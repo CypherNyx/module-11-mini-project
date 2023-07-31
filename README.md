@@ -1,4 +1,4 @@
-# Module 11 Project
+# Module 11 - Mini Project
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
@@ -16,7 +16,7 @@ You'll need to have Node.js installed on your computer. Once you have Node.js se
  
 1. Clone this GitHub repository to your local machine. <br> 
 ```sh
-git clone https://github.com/CypherNyx/Make-an-SVG-Logo-with-Node.git
+git clone https://github.com/CypherNyx/module-11-mini-project.git
 ```
 2. Open a terminal or command prompt and navigate to the cloned repository's directory.
 3. Run ```npm install``` to install the necessary dependencies.
